@@ -151,5 +151,5 @@ data.shape
 
 ![image](https://github.com/user-attachments/assets/ac0949a6-575a-41b5-94ad-c57e29c0f1dd)
 
-# RESULT:
+## RESULT:
 Thus, the program for feature selection and scaling has been implemented.
